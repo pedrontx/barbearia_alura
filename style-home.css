@@ -11,10 +11,7 @@ header{
 	width: 940px;
 	margin: 0 auto;
 }
-nav a:hover{
-	color: #C78C19;
-	text-decoration: underline;
-}
+
 nav {
 	position: absolute;
 	top: 110px;
@@ -33,7 +30,10 @@ nav li a {
 	font-size: 22px;
 	text-decoration: none;
 }
-
+nav a:hover{
+	color: #C78C19;
+	text-decoration: underline;
+}
 .banner{
 	width: 100%;
 	margin: 5px 0;
